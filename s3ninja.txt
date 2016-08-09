@@ -1,0 +1,13 @@
+getuikit.com/docs/upload.html
+aws.amazon.com/pt/s3
+
+Para istalar o: http://s3ninja.net/
+s3 ninja
+versão 2.7
+2.7 zip zip
+
+CRIAR UMA PASTA DETRO DA PASTA DATA  com nome s3
+depois digitar na pasta raiz java IPL
+
+Depois abri o local:
+http://localhost:9444
